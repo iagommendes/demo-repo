@@ -1,2 +1,2 @@
 # demo-repo
-Descricao do meu repo.
+Este guia deve ajudá-lo a acessar a nossa aplicação.
